@@ -1,0 +1,15 @@
+{
+    "name": "jairo/online_mart",
+    "description": "Hi. I'm a starter theme called online mart",
+    "type": "WP theme, project",
+    "require": {
+        "fortawesome/font-awesome": "^5.15"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Abelardo Recalde",
+            "email": "j26a90@gmail.com"
+        }
+    ]
+}
